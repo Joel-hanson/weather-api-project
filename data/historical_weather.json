@@ -30,5 +30,13 @@
     "condition": "Clear",
     "humidity": 62,
     "wind_speed_mph": 6
+  },
+  {
+    "timestamp": "2025-07-26T09:20:15.735655",
+    "temperature_f": 81,
+    "temperature_c": 27,
+    "condition": "Clear",
+    "humidity": 62,
+    "wind_speed_mph": 6
   }
 ]
