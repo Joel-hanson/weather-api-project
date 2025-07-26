@@ -86,5 +86,13 @@
     "condition": "Cloudy",
     "humidity": 58,
     "wind_speed_mph": 9
+  },
+  {
+    "timestamp": "2025-07-26T16:24:03.920206",
+    "temperature_f": 80,
+    "temperature_c": 27,
+    "condition": "Sunny",
+    "humidity": 51,
+    "wind_speed_mph": 7
   }
 ]
