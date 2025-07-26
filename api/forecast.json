@@ -1,0 +1,54 @@
+{
+  "location": "New York",
+  "last_updated": "2025-07-26T13:24:27.741378",
+  "forecast": [
+    {
+      "date": "2025-07-26",
+      "max_temp_f": 88,
+      "min_temp_f": 75,
+      "max_temp_c": 31,
+      "min_temp_c": 24,
+      "condition": "Clear ",
+      "chance_of_rain": 0,
+      "chance_of_snow": 0,
+      "max_wind_speed_mph": 7,
+      "sunrise": "05:48 AM",
+      "sunset": "08:17 PM",
+      "moon_phase": "Waxing Crescent",
+      "moonrise": "07:37 AM",
+      "moonset": "09:38 PM"
+    },
+    {
+      "date": "2025-07-27",
+      "max_temp_f": 82,
+      "min_temp_f": 74,
+      "max_temp_c": 28,
+      "min_temp_c": 23,
+      "condition": "Partly Cloudy ",
+      "chance_of_rain": 0,
+      "chance_of_snow": 0,
+      "max_wind_speed_mph": 10,
+      "sunrise": "05:49 AM",
+      "sunset": "08:16 PM",
+      "moon_phase": "Waxing Crescent",
+      "moonrise": "08:45 AM",
+      "moonset": "09:59 PM"
+    },
+    {
+      "date": "2025-07-28",
+      "max_temp_f": 94,
+      "min_temp_f": 77,
+      "max_temp_c": 34,
+      "min_temp_c": 25,
+      "condition": "Overcast ",
+      "chance_of_rain": 0,
+      "chance_of_snow": 0,
+      "max_wind_speed_mph": 2,
+      "sunrise": "05:49 AM",
+      "sunset": "08:15 PM",
+      "moon_phase": "Waxing Crescent",
+      "moonrise": "09:50 AM",
+      "moonset": "10:19 PM"
+    }
+  ]
+}
