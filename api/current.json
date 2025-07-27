@@ -1,17 +1,17 @@
 {
   "location": "New York",
-  "last_updated": "2025-07-27T09:20:47.959149",
+  "last_updated": "2025-07-27T10:20:57.413875",
   "current": {
-    "temperature_f": 76,
-    "temperature_c": 24,
+    "temperature_f": 74,
+    "temperature_c": 23,
     "condition": "Haze",
-    "humidity": 48,
-    "wind_speed_mph": 10,
+    "humidity": 69,
+    "wind_speed_mph": 6,
     "wind_direction": "S",
     "feels_like_f": 78,
     "feels_like_c": 25,
     "uv_index": 0,
-    "visibility_miles": 8,
-    "pressure_mb": 1020
+    "visibility_miles": 10,
+    "pressure_mb": 1019
   }
 }
