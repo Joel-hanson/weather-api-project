@@ -158,5 +158,13 @@
     "condition": "Haze",
     "humidity": 48,
     "wind_speed_mph": 10
+  },
+  {
+    "timestamp": "2025-07-27T03:48:44.242542",
+    "temperature_f": 76,
+    "temperature_c": 24,
+    "condition": "Haze",
+    "humidity": 48,
+    "wind_speed_mph": 10
   }
 ]
