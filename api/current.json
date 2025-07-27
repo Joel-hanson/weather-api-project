@@ -1,17 +1,17 @@
 {
   "location": "New York",
-  "last_updated": "2025-07-26T23:19:59.285277",
+  "last_updated": "2025-07-27T01:56:29.689092",
   "current": {
-    "temperature_f": 80,
-    "temperature_c": 27,
-    "condition": "Sunny",
-    "humidity": 51,
-    "wind_speed_mph": 7,
-    "wind_direction": "ESE",
-    "feels_like_f": 79,
-    "feels_like_c": 26,
-    "uv_index": 7,
-    "visibility_miles": 11,
-    "pressure_mb": 1021
+    "temperature_f": 76,
+    "temperature_c": 24,
+    "condition": "Haze",
+    "humidity": 48,
+    "wind_speed_mph": 10,
+    "wind_direction": "S",
+    "feels_like_f": 78,
+    "feels_like_c": 25,
+    "uv_index": 0,
+    "visibility_miles": 8,
+    "pressure_mb": 1020
   }
 }

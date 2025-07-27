@@ -150,5 +150,13 @@
     "condition": "Sunny",
     "humidity": 51,
     "wind_speed_mph": 7
+  },
+  {
+    "timestamp": "2025-07-27T01:56:29.689639",
+    "temperature_f": 76,
+    "temperature_c": 24,
+    "condition": "Haze",
+    "humidity": 48,
+    "wind_speed_mph": 10
   }
 ]
